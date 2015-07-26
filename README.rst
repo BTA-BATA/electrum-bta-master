@@ -1,4 +1,4 @@
-Electrum-BTA - lightweight BataCoin client
+Electrum-BTA - lightweight Bata client
 ==========================================
 
 ::
