@@ -7,7 +7,7 @@ Electrum-BTA - lightweight BataCoin client
   Original Author: Thomas Voegtlin
   Port Maintainer: Pooler
   Language: Python
-  Homepage: https://electrum-bta.org/
+  Homepage: http://electrum-bta.xyz/
 
 
 
